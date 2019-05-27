@@ -1,0 +1,1 @@
+{"jobID":"d0598a92-6d71-982c-ef96-cdde99e33a2b","spec":{"type":"policy","cause":{"Message":"","User":"Alwin Ebermann \u003calwin.ebermann@iteratec.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
