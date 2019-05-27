@@ -1,0 +1,1 @@
+{"jobID":"e4007753-a36f-4a6f-9737-a571396fdcca","spec":{"type":"policy","cause":{"Message":"why not","User":"Alwin Ebermann \u003calwin.ebermann@iteratec.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"\"why not\"","locked_user":"Alwin Ebermann \u003calwin.ebermann@iteratec.com\u003e"},"remove":null}}},"result":null}
